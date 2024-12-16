@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Recipe DB Config">4079df751b7ec5500ef897941a4bcb25</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Task rejected">0479df75bc7ec55032e5bf15da358e56</macroponent>
         <macroponent_config>{

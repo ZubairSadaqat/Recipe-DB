@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
     <sys_ux_macroponent action="INSERT_OR_UPDATE">
         <associated_types/>
+        <bundles/>
         <category>page</category>
         <component_dependencies/>
         <composition>[ {&#13;
@@ -2675,8 +2676,13 @@
   },&#13;
   "readEvaluationMode" : "EAGER"&#13;
 } ]</data>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <dispatched_events>c479df752e7ec550aea7ee119ac57950,cc79df751c7ec55039425367466ac743</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <form_factors/>
         <handled_events>0079df75277ec550821cbf56850c625a,4479df751f7ec55046361a1d70c3655a,4879df75f37ec550a9f63bcee0a9625a,4c79df75257ec5500c2014eb034c4c5a,8c79df75a37ec550705a3c308b1b6c5a</handled_events>
         <interactions/>
         <interfaces/>
@@ -2992,6 +2998,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Landing Page</name>
+        <output_prop_mapping/>
         <props>[ {&#13;
   "name" : "refresh",&#13;
   "label" : "Refresh",&#13;
@@ -3061,6 +3068,7 @@
         <root_component_config>{ }</root_component_config>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
+        <state_persistence_config/>
         <state_properties>[ {
   "name" : "cardID",
   "label" : "cardID",
@@ -3141,4 +3149,5 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2022-04-12 14:55:09</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=c079df75087ec550acf2a5554eaca25b"/>
 </record_update>

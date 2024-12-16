@@ -2,6 +2,7 @@
     <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
         <acl_failure_result/>
         <api_name>x_snc_recipe_db.Content set - Related items list</api_name>
+        <batch_exclude>false</batch_exclude>
         <description>Used to convert the evam data to required content set format in the related items section of the catalog page of custom portal</description>
         <mutates_server_data>false</mutates_server_data>
         <name>Content set - Related items list</name>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
     <sys_ux_macroponent action="INSERT_OR_UPDATE">
         <associated_types/>
+        <bundles/>
         <category>page</category>
         <component_dependencies/>
         <composition>[ {&#13;
@@ -216,8 +217,13 @@
 } ]</composition>
         <da_relay_models/>
         <data>[ ]</data>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <dispatched_events/>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <form_factors/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -237,6 +243,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Task Approved</name>
+        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Return to home",
@@ -249,6 +256,7 @@
         <root_component_config>{ }</root_component_config>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
+        <state_persistence_config/>
         <state_properties>[ ]</state_properties>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>system</sys_created_by>
@@ -263,4 +271,5 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2022-04-12 14:55:11</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c79df75167ec550d076b472ea4a7055"/>
 </record_update>

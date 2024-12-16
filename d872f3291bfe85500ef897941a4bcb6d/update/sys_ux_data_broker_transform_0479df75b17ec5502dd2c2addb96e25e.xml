@@ -2,6 +2,7 @@
     <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
         <acl_failure_result/>
         <api_name>x_snc_recipe_db.Request Item Data Broker</api_name>
+        <batch_exclude>false</batch_exclude>
         <description>Data broker that returns the request itemfrom the request</description>
         <mutates_server_data>false</mutates_server_data>
         <name>Request Item Data Broker</name>

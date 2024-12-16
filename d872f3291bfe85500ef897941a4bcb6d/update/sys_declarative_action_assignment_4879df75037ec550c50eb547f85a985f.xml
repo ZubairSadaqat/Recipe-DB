@@ -20,7 +20,12 @@
         <dependency/>
         <description/>
         <design_icon/>
+        <dynamic_record_condition/>
+        <dynamic_script_condition/>
+        <enable_dynamic_evaluation>false</enable_dynamic_evaluation>
+        <enable_for_all_experiences>false</enable_for_all_experiences>
         <enabled>true</enabled>
+        <experience_restricted>false</experience_restricted>
         <field_name/>
         <field_type>glide_date</field_type>
         <form_fields_required>false</form_fields_required>
@@ -38,8 +43,11 @@
         <record_conditions/>
         <record_selection_required>false</record_selection_required>
         <required_roles/>
+        <required_translations/>
+        <required_user_role_names/>
         <requires_value>false</requires_value>
         <script_condition/>
+        <scripted_client_condition/>
         <server_script/>
         <specificity>1</specificity>
         <sys_class_name>sys_declarative_action_assignment</sys_class_name>

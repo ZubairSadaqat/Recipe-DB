@@ -2,6 +2,7 @@
     <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
         <acl_failure_result/>
         <api_name>x_snc_recipe_db.Transform metadata to add catalog filter</api_name>
+        <batch_exclude>false</batch_exclude>
         <description>This is an interim way to add dynamic catalog filter before Related catalogs EVAM usecase </description>
         <mutates_server_data>false</mutates_server_data>
         <name>Transform metadata to add catalog filter</name>
